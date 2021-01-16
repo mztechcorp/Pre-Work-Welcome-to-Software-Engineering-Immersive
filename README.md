@@ -55,6 +55,7 @@ Go to [GitHub](www.github.com) to join. Enter your username and email address, a
 This will create your account.
 Note: Do this even if you already have a GitHub account! We’ll be using a version called “Github Enterprise,” which is separate from any GitHub account you’ve previously created.
 If you’re new to GitHub, its website offers plenty of helpful guides and information. Review the Hello World guide to practice some basic GitHub actions or, if video is more your thing, watch Getting Started With GitHub on YouTube.
+
 ![](giphy.gif)
 
 # Asking for Pre-Work Help
